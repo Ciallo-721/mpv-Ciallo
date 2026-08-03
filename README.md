@@ -9,6 +9,6 @@ mpv 播放器自用配置
 本地视频打开底部"弹幕开关"等待片刻，即可加载弹幕
 <img width="1477" height="886" alt="本地视频" src="https://github.com/user-attachments/assets/8d726a51-025f-4875-9c94-d2d00b12d976" />
 
-[Anime4K](https://github.com/bloc97/Anime4K) - 超分辨率
+# [Anime4K](https://github.com/bloc97/Anime4K) - 超分辨率
 Ctrl + 1~9 切换挡位，Ctrl + ~ 关闭
 <img width="1400" height="734" alt="超分" src="https://github.com/user-attachments/assets/562e2987-54be-4875-8496-62380b313c13" />
