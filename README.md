@@ -7,4 +7,5 @@ mpv 播放器自用配置
 
 # 本地视频 - 弹幕 - [uosc_danmaku](https://github.com/Tony15246/uosc_danmaku)
 本地视频打开底部"弹幕开关"等待片刻，即可加载弹幕
-<img width="1280" height="720" alt="本地" src="https://github.com/user-attachments/assets/5a154406-28dd-48bb-b66b-72bbf54e0a4e" />
+<img width="1477" height="886" alt="本地视频" src="https://github.com/user-attachments/assets/8d726a51-025f-4875-9c94-d2d00b12d976" />
+
