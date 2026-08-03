@@ -1,5 +1,6 @@
 # mpv-Ciallo
-mpv 播放器自用配置
+mpv 播放器自用配置，portable_config替换你的mpv，或者使用[懒人包](https://github.com/Ciallo-721/mpv-Ciallo/releases)
+<img width="960" height="540" alt="123" src="https://github.com/user-attachments/assets/9bd1370f-cf50-4114-9d74-73dbdffe5897" />
 
 # Bilibili - 弹幕
 鼠标拖入 URLs 或 Ctrl+V 粘贴 URLs，即可播放Bilibili视频 且 自动获取弹幕
